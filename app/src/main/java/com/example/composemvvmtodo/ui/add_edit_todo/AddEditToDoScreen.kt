@@ -49,8 +49,7 @@ fun AddEditToDoScreen(
     }
 
     Scaffold(modifier = Modifier
-        .fillMaxSize()
-        .padding(16.dp),
+        .fillMaxSize(),
         snackbarHost = { SnackbarHost(snackbarHostState) },
         floatingActionButton = {
             FloatingActionButton(onClick = { viewModel.onEvent(AddEditToDoEvent.OnSaveToDoClick) }) {
@@ -58,7 +57,7 @@ fun AddEditToDoScreen(
             }
         }) {
         Column(
-            modifier = Modifier.fillMaxSize(),
+            modifier = Modifier.fillMaxSize().padding(16.dp),
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.Center
         ) {
