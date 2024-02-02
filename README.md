@@ -13,10 +13,10 @@ Used Technologies and Libraries:
 
 **Below are some screenshots from the app and the structure of the app** 
 
-![todo1](images/ToDo1.jpg) 
+<img src="images/ToDo1.jpg" alt="todo1" width="200"/>
 
-![todo2](images/ToDo2.jpg) 
+<img src="images/ToDo2.jpg" alt="todo2" width="200"/>
 
-![todo3](images/ToDo3.jpg)
+<img src="images/ToDo3.jpg" alt="todo3" width="200"/>
 
-![project structure](images/project_structure.png)
+<img src="images/project_structure.png" alt="project structure" width="200"/>
