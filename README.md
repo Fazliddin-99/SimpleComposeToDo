@@ -13,10 +13,11 @@ Used Technologies and Libraries:
 
 **Below are some screenshots from the app and the structure of the app** 
 
-<img src="images/ToDo1.jpg" alt="todo1" width="300"/>
-
-<img src="images/ToDo2.jpg" alt="todo2" width="300"/>
-
-<img src="images/ToDo3.jpg" alt="todo3" width="300"/>
+<div style="display: flex; justify-content: center;">
+    <img src="images/ToDo1.jpg" alt="todo1" style="width: 30%; margin: 0 1%;" />
+    <img src="images/ToDo2.jpg" alt="todo2" style="width: 30%; margin: 0 1%;" />
+    <img src="images/ToDo3.jpg" alt="todo3" style="width: 30%; margin: 0 1%;" />
+</div>
 
 <img src="images/project_structure.png" alt="project structure"/>
+
