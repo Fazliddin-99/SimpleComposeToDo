@@ -13,6 +13,10 @@ Used Technologies and Libraries:
 
 **Below are some screenshots from the app and the structure of the app** 
 
-![todo1](images/ToDo1.jpg) ![todo2](images/ToDo2.jpg) ![todo3](images/ToDo3.jpg)
+![todo1](images/ToDo1.jpg) 
+
+![todo2](images/ToDo2.jpg) 
+
+![todo3](images/ToDo3.jpg)
 
 ![project structure](images/project_structure.png)
